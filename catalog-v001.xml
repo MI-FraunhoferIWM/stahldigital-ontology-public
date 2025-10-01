@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=false, version=2" prefer="public" xml:base="">
+
+        <uri name="https://w3id.org/steel/ProcessOntology/terms"  uri="./terms.ttl"/>
+        <uri name="https://w3id.org/pmd/co/3.0.0-alpha3"  uri="https://raw.githubusercontent.com/materialdigital/core-ontology/refs/tags/v3.0.0-alpha3/pmdco.ttl"/>
+    </group>
+</catalog>
